@@ -1,0 +1,1 @@
+print("MiMo API test demo")
